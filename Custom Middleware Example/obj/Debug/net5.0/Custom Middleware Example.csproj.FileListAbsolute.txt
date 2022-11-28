@@ -1,0 +1,28 @@
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\bin\Debug\net5.0\appsettings.json
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\bin\Debug\net5.0\Custom Middleware Example.exe
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\bin\Debug\net5.0\Custom Middleware Example.deps.json
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\bin\Debug\net5.0\Custom Middleware Example.runtimeconfig.json
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\bin\Debug\net5.0\Custom Middleware Example.runtimeconfig.dev.json
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\bin\Debug\net5.0\Custom Middleware Example.dll
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\bin\Debug\net5.0\Custom Middleware Example.pdb
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\Custom Middleware Example.csproj.AssemblyReference.cache
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\Custom Middleware Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\Custom Middleware Example.AssemblyInfoInputs.cache
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\Custom Middleware Example.AssemblyInfo.cs
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\Custom Middleware Example.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\Custom Middleware Example.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\Custom Middleware Example.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\scopedcss\bundle\Custom Middleware Example.styles.css
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\staticwebassets\Custom Middleware Example.StaticWebAssets.Manifest.cache
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\Custom Middleware Example.RazorTargetAssemblyInfo.cache
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\Custom Middleware Example.csproj.CopyComplete
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\Custom Middleware Example.dll
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\refint\Custom Middleware Example.dll
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\Custom Middleware Example.pdb
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\Custom Middleware Example.genruntimeconfig.cache
+C:\Users\fatih\source\repos\Custom Middleware Example\Custom Middleware Example\obj\Debug\net5.0\ref\Custom Middleware Example.dll
